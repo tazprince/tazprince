@@ -15,14 +15,9 @@
 </div>
 
 ---
-
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tazprince" alt="tazprince" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/princeofbugs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="princeofbugs" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/princeofbugs" target="blank"><img align="center" src="https://codeforces.com/profile/PrinceOfBugs" alt="PrinceofBugs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
