@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
 
 <img src="./banner.png" alt="Tazbir Khan Prince" width="100%">
