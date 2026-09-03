@@ -15,8 +15,17 @@
 </div>
 
 ---
-# 💫 About Me:
-Programming Enthusiast | CSE Student |  Developer  | Exploring AI
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/PrinceOfBugs">
+    <img src="https://img.shields.io/badge/Codeforces-PrinceOfBugs-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/tazprince">
+    <img src="https://img.shields.io/badge/GitHub-Tazbir%20Khan%20Prince-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 
 # 💻 Tech Stack:
