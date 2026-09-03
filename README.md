@@ -110,20 +110,22 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=tazprince&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazprince&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Top Languages"
+    alt="Tazbir's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=tazprince&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazprince&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=tazprince&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
@@ -134,12 +136,10 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tazprince&theme=tokyo-night&hide_border=true&area=true"
-    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tazprince&theme=tokyo-night&hide_border=true"
     alt="Contribution Graph"
   />
 </p>
-
 
 <!--
 **tazprince/tazprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
