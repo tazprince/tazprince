@@ -1,4 +1,13 @@
 ## Hi there 👋
+<div align="center">
+
+<img src="./banner.png" alt="Tazbir Khan Prince" width="100%">
+
+# Hi there 👋
+
+### Programming Enthusiast | Aspiring Full Stack Web Developer | Exploring AI
+
+</div>
 
 <!--
 **tazprince/tazprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
