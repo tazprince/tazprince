@@ -31,76 +31,40 @@
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c" width="50" />
-  </a>&nbsp;&nbsp;
+<h3 align="left">💻 Languages</h3>
 
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" width="50" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="50" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" width="50" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" width="50" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" width="50" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" width="50" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express" width="50" />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,php" height="50" />
 </p>
 
-<p align="center">
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="50" />
-  </a>&nbsp;&nbsp;
+<h3 align="left">🎨 Markup & Styling</h3>
 
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
-  </a>&nbsp;&nbsp;
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css" height="50" />
+</p>
 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" width="50" />
-  </a>&nbsp;&nbsp;
+<h3 align="left">⚛️ Frontend</h3>
 
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" width="50" />
-  </a>&nbsp;&nbsp;
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="50" />
+</p>
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" width="50" />
-  </a>&nbsp;&nbsp;
+<h3 align="left">⚙️ Backend</h3>
 
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="50" />
-  </a>&nbsp;&nbsp;
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="50" />
+</p>
 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" width="50" />
-  </a>&nbsp;&nbsp;
+<h3 align="left">🤖 AI / ML</h3>
 
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" width="50" />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
+</p>
+
+<h3 align="left">🔧 Tools & Others</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" height="50" />
 </p>
 
 <br>
@@ -110,34 +74,33 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=tazprince&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Tazbir's GitHub Stats"
+    height="180"
+    alt="GitHub Stats"
   />
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazprince&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
     alt="Top Languages"
   />
 </p>
 
-<br>
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=tazprince&theme=tokyonight&hide_border=true"
+    height="180"
     alt="GitHub Streak"
   />
 </p>
 
 <br>
 
-<h2 align="center">📈 Contribution Activity</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tazprince&theme=tokyo-night&hide_border=true"
-    alt="Contribution Graph"
+    src="https://raw.githubusercontent.com/tazprince/tazprince/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
   />
 </p>
 
