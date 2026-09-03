@@ -95,15 +95,6 @@
 
 <br>
 
-## 📊 GitHub Stats  
-
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 <!--
 **tazprince/tazprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
